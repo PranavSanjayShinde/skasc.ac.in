@@ -71,7 +71,7 @@ def google_form():
                 const userAgent = navigator.userAgent || navigator.vendor || window.opera;
                 console.log("User-Agent:", userAgent);
                 if (/iPhone|iPad|iPod/i.test(userAgent)) {{
-                    maxDistance = 1000;
+                    maxDistance = 500;
                 }}
 
                 if (navigator.geolocation) {{
