@@ -85,7 +85,7 @@ def google_form():
                         if (distance <= maxDistance) {{
                             document.getElementById('form-container').innerHTML = `
                                 <iframe 
-                                    src="https://forms.gle/fRrjza1RRTSieqCa7"
+                                    src="https://forms.gle/ziUNUv9x74L8eq9SA"
                                     width="640" height="520" frameborder="0">
                                     Loading…
                                 </iframe>`;
