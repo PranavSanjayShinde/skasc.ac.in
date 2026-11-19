@@ -8,8 +8,8 @@ app = Flask(__name__)
 CONFIG_FILE = "settings.json"
 
 DEFAULT_SETTINGS = {
-    "latitude": 11.0168,
-    "longitude": 76.9558,
+    "latitude": 10.939019,
+    "longitude": 76.958774,
     "radius": 500,
     "form_url": "https://forms.gle/xxMA8dKmayf6HP3A8"
 }
