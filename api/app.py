@@ -11,7 +11,7 @@ DEFAULT_SETTINGS = {
     "latitude": 11.0168,
     "longitude": 76.9558,
     "radius": 500,
-    "form_url": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+    "form_url": "https://forms.gle/xxMA8dKmayf6HP3A8"
 }
 
 
